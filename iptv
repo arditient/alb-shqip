@@ -1,0 +1,143 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="AB",RTK FHD
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/135.ts?checkedby:ahlakid.com
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/135.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="RTV21HD.al" group-title="AB",RTV 21 
+http://62.210.152.92:25461/kanale2/Ass/13
+http://190.115.29.22:8080/carter/GUV1bMq2VK/29897?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="AB",KTV FHD
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/136.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="KlanKosova.al" group-title="AB",KLAN Kosova FHD
+http://62.210.152.92:25461/kanale2/Ass/11
+#EXTINF:0 tvg-id="TVDukagjini.al" group-title="AB",TV Dukagjini FHD
+http://62.210.152.92:25461/kanale2/Ass/14
+#EXTINF:0 tvg-id="ext" group-title="AB",T7 FHD
+http://62.210.152.92:25461/kanale2/Ass/74
+#EXTINF:0 tvg-id="KlanTVHD.al" group-title="AB",Klan FHD
+http://62.210.152.92:25461/kanale2/Ass/6
+#EXTINF:0 tvg-id="TopChannel.al" group-title="AB",TOP Channel
+http://62.210.152.92:25461/kanale2/Ass/8
+http://62.210.152.92:25461/kanale2/Ass/8
+#EXTINF:0 tvg-id="ext" group-title="AB",Alsat TV FHD
+http://62.210.152.92:25461/kanale2/Ass/10
+#EXTINF:0 tvg-id="ext" group-title="AB",Vizion Plus FHD
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/111.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="AB",Klan Plus FHD
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/107.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="AB",RTSH1 FHD
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/118.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="AB",RTSH2 FHD
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/119.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="AB",RTSH Shkolla FHD
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/161.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="AB",RTSH Shqip 
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/123.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="AB",TV Dielli FHD
+http://62.210.152.92:25461/kanale2/Ass/53
+#EXTINF:0 tvg-id="ext" group-title="AB",Syri Vision FHD
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/86.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ABCNews.al" group-title="AB",ABC News FHD
+http://62.210.152.92:25461/kanale2/Ass/50
+#EXTINF:0 tvg-id="ext" group-title="AB",REPORT FHD
+http://62.210.152.92:25461/kanale2/Ass/46
+#EXTINF:0 tvg-id="ext" group-title="AB",Drita TV FHD
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/163.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="AB",Qifteli HD
+http://62.210.152.92:25461/kanale2/Ass/16
+#EXTINF:0 tvg-id="ext" group-title="AB",TV Shenja FHD
+http://62.210.152.92:25461/kanale2/Ass/75
+#EXTINF:0 tvg-id="ext" group-title="AB",Alsat M FHD
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1037?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="AB",Alsat M 1 FHD 
+http://93.157.62.180/AlsatM/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AB",ahlakid.com - D Drama FHD
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/157.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="TDC.ca" group-title="AB",TDC FHD
+http://62.210.152.92:25461/kanale2/Ass/60
+#EXTINF:0 tvg-id="ext" group-title="AB",Big B FHD
+http://62.210.152.92:25461/kanale2/Ass/76
+#EXTINF:0 tvg-id="ext" group-title="AB'',Tring Super FHD
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/71.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="AB",Tring Action FHD
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/69.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="JollyHD.al" group-title="AB",Tring Jolly FHD
+http://62.210.152.92:25461/kanale2/Ass/56
+#EXTINF:0 tvg-id="ext" group-title="AB",Tring Comedy FHD
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/70.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="AB",Tring Family FHD
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/176.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="AB",Tring Life FHD
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/73.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="AB",Tring Planet FHD
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/67.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="AB",Tring World FHD
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/66.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="AB",Tring Shqip FHD
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/74.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="AB",Tring Fantasy HD
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/72.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="AB",GOLD 1 FHD
+http://62.210.152.92:25461/kanale2/Ass/35
+#EXTINF:0 tvg-id="ext" group-title="AB",Gold 2 FHD
+http://62.210.152.92:25461/kanale2/Ass/43
+#EXTINF:0 tvg-id="ext" group-title="AB",Premiere 1 FHD
+http://62.210.152.92:25461/kanale2/Ass/38
+#EXTINF:0 tvg-id="ext" group-title="AB",Premiere 2 HD
+http://62.210.152.92:25461/kanale2/Ass/36
+#EXTINF:0 tvg-id="ext" group-title="AB",Premiere 3 FHD
+http://62.210.152.92:25461/kanale2/Ass/80
+#EXTINF:0 tvg-id="ext" group-title="AB",Premiere 4 FHD
+http://62.210.152.92:25461/kanale2/Ass/39
+#EXTINF:0 tvg-id="Action.ca" group-title="AB",Aksion FHD
+http://62.210.152.92:25461/kanale2/Ass/37
+#EXTINF:0 tvg-id="ext" group-title="AB",Hits FHD
+http://62.210.152.92:25461/kanale2/Ass/34
+#EXTINF:0 tvg-id="ext" group-title="AB",Filma24 FHD
+http://62.210.152.92:25461/kanale2/Ass/41
+#EXTINF:0 tvg-id="ext" group-title="AB",Triller FHD
+http://62.210.152.92:25461/kanale2/Ass/42
+#EXTINF:0 tvg-id="SkyCinemaPlus1.de" group-title="AB",DE: Sky Cinema 1 FHD
+http://iptv.journalsat.com:25461/344548162/journalsat/548
+#EXTINF:0 tvg-id="SkyCinemaPlus24.de" group-title="AB",DE: Sky Cinema 2 HD
+#EXTINF:0 tvg-id="SkyCinema.de" group-title="AB",DE: Sky Cinema 3 FHD
+http://iptv.journalsat.com:25461/344548162/journalsat/550
+#EXTINF:0 tvg-id="ext" group-title="AB",DE: Sky Cinema 4 FHD
+http://iptv.journalsat.com:25461/344548162/journalsat/552
+#EXTINF:0 tvg-id="ext" group-title="AB",X Family FHD
+http://62.210.152.92:25461/kanale2/Ass/40
+#EXTINF:0 tvg-id="DisneyCinemagic.de" group-title="AB",DE: DISNEY 1 FHD
+#EXTINF:0 tvg-id="DisneyJunior.de" group-title="AB",DE: Disney 2 4K
+#EXTINF:0 tvg-id="ext" group-title="AB",Bang Bang HD
+#EXTINF:0 tvg-id="ext" group-title="AB",RTSH Femije HD
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/129.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="AB",TOM & JERRY
+#EXTINF:0 tvg-id="ext" group-title="AB",X-KIDS HD
+http://62.210.152.92:25461/kanale2/Ass/18
+#EXTINF:0 tvg-id="ext" group-title="AB",ahlakid.com - Kujtesa Sport 1 HD
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1057?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="AB",ahlakid.com - Kujtesa Sport 4 HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/2112?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="AB",ahlakid.com - RTSH Sport
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/124.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="AB",
+Tring Sport 1 FHD
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/63.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="AB",Tring Sport 2 FHD
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/62.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="AB",Tring Sport 3 FHD
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/61.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="AB",DE: Sky Sport Bundesliga 3 FHD
+http://iptv.journalsat.com:25461/344548162/journalsat/622
+#EXTINF:0 tvg-id="ext" group-title="AB",DE: Sky Sport Bundesliga 4 FHD
+http://iptv.journalsat.com:25461/344548162/journalsat/623
+#EXTINF:0 tvg-id="ext" group-title="AB",DE: Sky Sport Bundesliga 5 FHD
+http://iptv.journalsat.com:25461/344548162/journalsat/624
+#EXTINF:0 tvg-id="ext" group-title="AB",DE: Sky Sport Bundesliga 6 HD
+http://iptv.journalsat.com:25461/344548162/journalsat/625
+#EXTINF:0 tvg-id="ext" group-title="AB",DE: Sky Sport Bundesliga 7 HD
+http://iptv.journalsat.com:25461/344548162/journalsat/626
+#EXTINF:0 tvg-id="ext" group-title="AB",DE: Sky Sport Bundesliga 8 FHD
+http://iptv.journalsat.com:25461/344548162/journalsat/627
+#EXTINF:0 tvg-id="ext" group-title="AB",DE: Sky Sport Bundesliga 9 FHD
+http://iptv.journalsat.com:25461/344548162/journalsat/628
+#EXTINF:0 tvg-id="ext" group-title="AB",DE: Sky Sport Bundesliga 10 HD
